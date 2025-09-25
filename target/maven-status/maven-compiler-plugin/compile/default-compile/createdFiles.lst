@@ -1,0 +1,8 @@
+com\mycompany\helloservletlogin\LoginSessionServlet.class
+com\mycompany\helloservletlogin\LogoutSessionServlet.class
+com\mycompany\helloservletlogin\ProfileCookieServlet.class
+com\mycompany\helloservletlogin\JakartaRestConfiguration.class
+com\mycompany\helloservletlogin\resources\JakartaEE11Resource.class
+com\mycompany\helloservletlogin\ProfileSessionServlet.class
+com\mycompany\helloservletlogin\LogoutCookieServlet.class
+com\mycompany\helloservletlogin\LoginCookieServlet.class
