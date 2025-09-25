@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f0f0;
+    font-size: 16px;
+}
+
+.root {
+    margin: 2rem;
+    width: 500px;
+}
+
+header img {
+    width: 100%;
+    max-width: 100px;
+}
+
+.title {
+    margin: 0.5rem 0;
+    font-size: 1.5rem;
+    color: rgb(1, 94, 63);
+}
+
+.infor-body__item {
+    margin: 0.5rem 0;
+}
+
+.infor-body__item label {
+    display: inline-block;
+    font-weight: bold;
+    min-width: 130px;
+}
+
+.infor-body__item input {
+    width: 200px;
+}
+
+.hear-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.would-body__item {
+    margin: 0.5rem 0;
+}
+
+.contact {
+    display: inline-block;
+}
+
+.submit {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    padding: 0 .2rem;
+}
